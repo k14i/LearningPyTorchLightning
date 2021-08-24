@@ -32,3 +32,8 @@
     - PyTorch Lightning のインストール方法や留意点について説明します。
 4. Working with Azure ML SDK
     - Azure Machine Learning SDK を利用して Azure 上で Pytorch Lightning を利用する方法を示します。
+
+
+## See also
+
+* [Create lightweight learning contents about PyTorch Lightning - kt.log](https://k14i.github.io/2021/08/24/Create-lightweight-learning-contents-about-PyTorch-Lightning/)
